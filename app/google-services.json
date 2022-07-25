@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932171153734",
+    "project_id": "registrapp-6dd32",
+    "storage_bucket": "registrapp-6dd32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932171153734:android:1f6d66c5859ddf0cd92547",
+        "android_client_info": {
+          "package_name": "kg.geektech.registrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932171153734-o2r4mnokprcev4tbh72uajhhl07i6uqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.geektech.registrapp",
+            "certificate_hash": "348a8d302dbb64fd2d9506698d41be31c0bae503"
+          }
+        },
+        {
+          "client_id": "932171153734-ptkjfbl0h5ehqs3p3pbag5j6dd1nd6qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8fkGuVDk1QpiKmXA7EnseFGc7PnwoCtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932171153734-ptkjfbl0h5ehqs3p3pbag5j6dd1nd6qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

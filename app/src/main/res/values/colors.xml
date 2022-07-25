@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black_text">#12121D</color>
+    <color name="white_other">#F3F3F3</color>
+    <color name="black_text_30">#4D12121D</color>
+    <color name="yellow">#FDDB16</color>
+    <color name="blue_cart_count_button">#EBF0FF</color>
+    <color name="com_facebook_button_background_color_focused">#2566AF</color>
+    <color name="blue_cart_count">#223263</color>
+    <color name="blue_oval_line">#6842FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_text_10">#1A12121D</color>
+    <color name="custom_white">#FFFFFF</color>
+    <color name="custom_smoke_white">#F3F3F3</color>
+    <color name="custom_yellow">#FDDB16</color>
+    <color name="custom_black">#12121D</color>
+    <color name="custom_black_5percent">#0D12121D</color>
+    <color name="custom_black_30percent">#4D12121D</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="custom_gray_3">#565656</color>
+    <color name="gray">#BDBDBD</color>
+    <color name="blue">#2566AF</color>
+    <color name="com_facebook_button_background_color_focused_disabled">#2566AF</color>
+    <color name="com_facebook_button_border_color_focused">#2566AF</color>
+</resources>

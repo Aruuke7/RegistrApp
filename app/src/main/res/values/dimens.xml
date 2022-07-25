@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_gigantic_36sp">36sp</dimen>
+    <dimen name="size_biggest_28sp">28sp</dimen>
+    <dimen name="size_big_20sp">20sp</dimen>
+    <dimen name="size_medium_14sp">14sp</dimen>
+    <dimen name="size_medium">16sp</dimen>
+    <dimen name="size_small_12sp">12sp</dimen>
+    <dimen name="size_tiny_10sp">10sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="very_small_dp">6dp</dimen>
+
+    <!-- -->
+    <dimen name="caps_logo_margin_vertical">44dp</dimen>
+    <dimen name="text_registration_margin">148dp</dimen>
+
+    <dimen name="register_frag_mar_hor">30dp</dimen>
+    <dimen name="register_frag_mar_top">38dp</dimen>
+    <dimen name="half_dp">0.5dp</dimen>
+    <dimen name="view_margin_top">40dp</dimen>
+    <dimen name="twenty_eight_and_half">28.5dp</dimen>
+    <dimen name="edit_text_height">56dp</dimen>
+    <dimen name="et_iv_margin_top">10dp</dimen>
+    <dimen name="btn_register_margin_top">45dp</dimen>
+    <dimen name="btn_register_width">220dp</dimen>
+    <dimen name="ll_margin_top">32dp</dimen>
+    <dimen name="view_width">118dp</dimen>
+    <dimen name="ll_register_margin_top">91dp</dimen>
+    <dimen name="tv_login_mar_start">65dp</dimen>
+    <dimen name="two_dp">2dp</dimen>
+    <dimen name="btn_sort_width">317dp</dimen>
+    <dimen name="corner_radius">50dp</dimen>
+    <dimen name="et_start">36dp</dimen>
+
+</resources>

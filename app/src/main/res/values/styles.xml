@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextViewRegistration">
+        <item name="android:layout_marginTop">@dimen/text_registration_margin</item>
+        <item name="android:fontFamily">@font/sf_ui_text_bold</item>
+        <item name="android:textSize">@dimen/size_biggest_28sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="EditTextRecoveryPhone">
+        <item name="android:backgroundTint">#12121D4D</item>
+        <item name="android:fontFamily">@font/sf_ui_text_regular</item>
+        <item name="android:hint">@string/text_phone_number_blank</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextViewNoteBlank">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/sf_ui_display_bold</item>
+    </style>
+
+    <style name="DefaultRegisterMaterialButton">
+        <item name="android:fontFamily">@font/sf_ui_text_bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:backgroundTint">@color/custom_yellow</item>
+        <item name="cornerRadius">100dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+    <!-- -->
+
+
+    <style name="TextBrandProductsRv">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fontFamily">@font/sf_ui_text_heavy</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextModelProductsRv">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fontFamily">@font/sf_ui_text_regular</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:textColor">@color/black_text_30</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TextPriceProductsRv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/sf_ui_text_bold</item>
+        <item name="android:textColor">@color/yellow</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextProductSize">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">@drawable/back_circle_for_size_product</item>
+        <item name="android:fontFamily">@font/sf_ui_display_bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/black_text</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="TextCartSum">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/sf_ui_text_bold</item>
+        <item name="android:textColor">@color/black_text</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="YellowBtnStyle">
+        <item name="android:layout_width">@dimen/zero_dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="fontFamily">@font/sf_ui_text_bold</item>
+        <item name="backgroundTint">@color/btn_background_color</item>
+        <item name="android:textColor">@color/btn_text_color</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textSize">@dimen/size_medium</item>
+        <item name="cornerRadius">60dp</item>
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:backgroundTint">@color/gray</item>
+        <item name="android:layout_marginStart">@dimen/et_start</item>
+        <item name="fontFamily">@font/sf_ui_text_regular</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/size_medium</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColorHint">@color/gray</item>
+    </style>
+
+    <style name="GFBtnStyle">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="IvEtStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/et_iv_margin_top</item>
+    </style>
+
+    <style name="CardViewStyle">
+        <item name="android:layout_height">@dimen/edit_text_height</item>
+        <item name="android:layout_width">@dimen/edit_text_height</item>
+        <item name="cardCornerRadius">@dimen/corner_radius</item>
+        <item name="cardElevation">@dimen/zero_dp</item>
+    </style>
+
+    <style name="BtnRegisterStyle">
+        <item name="android:layout_width">@dimen/btn_register_width</item>
+        <item name="android:layout_height">@dimen/edit_text_height</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">@dimen/btn_register_margin_top</item>
+        <item name="cornerRadius">@dimen/corner_radius</item>
+        <item name="android:insetTop">@dimen/zero_dp</item>
+        <item name="android:insetBottom">@dimen/zero_dp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="BtnSortStyle">
+        <item name="android:layout_width">155dp</item>
+        <item name="android:layout_height">52dp</item>
+        <item name="cornerRadius">@dimen/corner_radius</item>
+        <item name="android:insetTop">@dimen/zero_dp</item>
+        <item name="android:insetBottom">@dimen/zero_dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="backgroundTint">@color/custom_smoke_white</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TvRegisterStyle">
+        <item name="titleMarginStart">16dp</item>
+        <item name="fontFamily">@font/sf_ui_text_regular</item>
+        <item name="android:textSize">@dimen/size_medium_14sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+
+</resources>

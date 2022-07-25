@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="kg.geektech.registrapp.ui.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" />
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="kg.geektech.registrapp.ui.register.RegisterFragment"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="kg.geektech.registrapp.ui.login.LogInFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_log_in" />
+    <fragment
+        android:id="@+id/facebookAuthFragment"
+        android:name="kg.geektech.registrapp.ui.register.FacebookAuthFragment"
+        android:label="FacebookAuthFragment" />
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="kg.geektech.registrapp.ui.main.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
+
+
+</navigation>
+
